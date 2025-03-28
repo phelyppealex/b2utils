@@ -1,0 +1,1 @@
+export const brlMask = (value: string) => Number(value.replace(/\D/g, ''));
